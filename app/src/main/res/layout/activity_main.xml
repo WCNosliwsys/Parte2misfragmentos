@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".Ejemplo1.MainActivity">
     <Spinner
         android:id="@+id/mispinner"
         android:entries="@array/tipo"
@@ -13,7 +13,7 @@
         android:layout_height="wrap_content" />
 <!--    <fragment
         android:id="@+id/mifragment"
-        android:name="com.example.parte2misfragmentos.GridFragmento"
+        android:name="com.example.parte2misfragmentos.Ejemplo1.GridFragmento"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>-->
     <FrameLayout

@@ -1,4 +1,4 @@
-package com.example.parte2misfragmentos;
+package com.example.parte2misfragmentos.Ejemplo1;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -9,7 +9,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
-import android.widget.Toast;
+
+import com.example.parte2misfragmentos.R;
 
 public class MainActivity extends AppCompatActivity {
 
