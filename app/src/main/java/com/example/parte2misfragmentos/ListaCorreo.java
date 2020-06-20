@@ -20,7 +20,7 @@ public class ListaCorreo  extends AppCompatActivity {
                         new Correo("Persona 1", "Asunto del correo 1", "Texto del correo 1"),
                         new Correo("Persona 2", "Asunto del correo 2", "Texto del correo 2"),
                         new Correo("Persona 3", "Asunto del correo 3", "Texto del correo 3"),
-                        new Correo("Persona 4", "Asunto del correo 4", "Texto del correo 4"),
+                        new Correo("Wilson", "tema fragmentos", "Fragmentos dinamicos"),
                         new Correo("Persona 5", "Asunto del correo 5", "Texto del correo 5")};
         adaptador = new AdapterCorreo(this,
                 datos);
